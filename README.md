@@ -12,3 +12,5 @@ This app is a memory game with React. This project required me to break up my ap
 4. Every time an image is clicked, the images rendered to the page should shuffle themselves in a random order.
 
 5. Once the user's score is reset after an incorrect guess, the game should restart.
+
+![image](https://user-images.githubusercontent.com/33634800/41803226-932e7316-763b-11e8-93ec-537e6154d4df.png)
